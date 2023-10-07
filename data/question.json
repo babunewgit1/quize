@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "questionHeading": "Radiation",
+    "mainQuestion": "Do nuclear power stations contribute significantly to an individual's radiation exposure?",
+    "answerOption": ["Yes", "No"],
+    "correctAns": "Yes",
+    "correctLogic": "Nuclear power stations contribute to radiation exposure.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "2",
+    "questionHeading": "Earth's Diameter",
+    "mainQuestion": "Approximately, how wide is the Earth?",
+    "answerOption": ["12,000 km", "8,000 km", "6,000 km", "1,00 km"],
+    "correctAns": "12,000 km",
+    "correctLogic": "The Earth has a diameter of about 12,000 kilometers.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "3",
+    "questionHeading": "Chemical Element",
+    "mainQuestion": "What is the chemical symbol for oxygen?",
+    "answerOption": ["O", "O2", "O3"],
+    "correctAns": "O",
+    "correctLogic": "The chemical symbol for oxygen is 'O'.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "4",
+    "questionHeading": "Capital Cities",
+    "mainQuestion": "The capital city of France is?",
+    "answerOption": ["Paris", "Berlin", "Madrid"],
+    "correctAns": "Paris",
+    "correctLogic": "The capital of France is Paris.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "5",
+    "questionHeading": "Mathematics",
+    "mainQuestion": "What's 5 multiplied by 7?",
+    "answerOption": ["35", "42", "30"],
+    "correctAns": "35",
+    "correctLogic": "5 multiplied by 7 equals 35.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "6",
+    "questionHeading": "Red Planet",
+    "mainQuestion": "Which planet is known as the 'Red Planet'?",
+    "answerOption": ["Mars", "Venus", "Jupiter"],
+    "correctAns": "Mars",
+    "correctLogic": "Mars is often called the 'Red Planet'.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "7",
+    "questionHeading": "Largest Organ",
+    "mainQuestion": "What is the largest organ in the human body?",
+    "answerOption": ["Skin", "Heart", "Brain"],
+    "correctAns": "Skin",
+    "correctLogic": "The skin is the largest organ in the human body.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "8",
+    "questionHeading": "Theory of Relativity",
+    "mainQuestion": "Who developed the theory of relativity?",
+    "answerOption": ["Albert Einstein", "Isaac Newton", "Marie Curie"],
+    "correctAns": "Albert Einstein",
+    "correctLogic": "Albert Einstein is known for the theory of relativity.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "9",
+    "questionHeading": "Christopher Columbus",
+    "mainQuestion": "In which year did Christopher Columbus reach the Americas?",
+    "answerOption": ["1492", "1607", "1776"],
+    "correctAns": "1492",
+    "correctLogic": "Christopher Columbus reached the Americas in 1492.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "10",
+    "questionHeading": "Famous Movie Line",
+    "mainQuestion": "What famous movie features the line 'Here's looking at you, kid'?",
+    "answerOption": ["Casablanca", "Gone with the Wind", "Citizen Kane"],
+    "correctAns": "Casablanca",
+    "correctLogic": "The famous line is from the movie 'Casablanca'.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "11",
+    "questionHeading": "Driest and Coldest Continent",
+    "mainQuestion": "Which continent is the driest and coldest on Earth?",
+    "answerOption": ["Antarctica", "Africa", "Asia"],
+    "correctAns": "Antarctica",
+    "correctLogic": "Antarctica is the driest and coldest continent.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "12",
+    "questionHeading": "Mona Lisa Painter",
+    "mainQuestion": "Who painted the Mona Lisa?",
+    "answerOption": ["Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+    "correctAns": "Leonardo da Vinci",
+    "correctLogic": "Leonardo da Vinci painted the Mona Lisa.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "13",
+    "questionHeading": "Romeo and Juliet Author",
+    "mainQuestion": "Who wrote 'Romeo and Juliet'?",
+    "answerOption": ["William Shakespeare", "Charles Dickens", "Jane Austen"],
+    "correctAns": "William Shakespeare",
+    "correctLogic": "William Shakespeare wrote 'Romeo and Juliet'.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "14",
+    "questionHeading": "Microsoft Co-Founder",
+    "mainQuestion": "Who co-founded Microsoft Corporation?",
+    "answerOption": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg"],
+    "correctAns": "Bill Gates",
+    "correctLogic": "Bill Gates co-founded Microsoft Corporation.",
+    "link": ["https://google.com", "https://google.com"]
+  },
+  {
+    "id": "15",
+    "questionHeading": "King of the Jungle",
+    "mainQuestion": "Which animal is known as the 'King of the Jungle'?",
+    "answerOption": ["Lion", "Tiger", "Leopard"],
+    "correctAns": "Lion",
+    "correctLogic": "The lion is often called the 'King of the Jungle'.",
+    "link": ["https://google.com", "https://google.com"]
+  }
+]

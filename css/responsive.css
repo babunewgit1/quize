@@ -1,0 +1,102 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+  html {
+    font-size: 0.7vw;
+  }
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  html {
+    font-size: 0.7vw;
+  }
+
+  main {
+    background-size: cover;
+    padding: 0px 25px;
+  }
+
+  .question_ans button {
+    font-size: 5rem;
+  }
+
+  .skipImg button#skip {
+    font-size: 4.5rem;
+  }
+
+  .skipImg button#skip img {
+    width: 4rem;
+  }
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {
+  html {
+    font-size: 1.2vw;
+  }
+
+  main {
+    background-size: cover;
+    padding: 0px 25px;
+  }
+
+  .wrapper {
+    width: 100%;
+  }
+
+  .question_ans button {
+    font-size: 5rem;
+  }
+
+  .skipImg button#skip {
+    font-size: 4.5rem;
+  }
+
+  .skipImg button#skip img {
+    width: 4rem;
+  }
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+  html {
+    font-size: 1.2vw;
+  }
+
+  main {
+    background-size: cover;
+    padding: 0px 25px;
+  }
+
+  .wrapper {
+    width: 100%;
+  }
+
+  .question_ans button {
+    font-size: 5rem;
+  }
+
+  .skipImg button#skip {
+    font-size: 4.5rem;
+  }
+
+  .skipImg button#skip img {
+    width: 4rem;
+  }
+}
